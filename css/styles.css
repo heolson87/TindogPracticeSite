@@ -1,0 +1,233 @@
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: #fff;
+  font-weight: 900;
+  line-height: 1.5;
+}
+.col-feature {
+  padding: 0;
+}
+.row {
+}
+
+/* title area (navbar, title, buttons, image) */
+#title {
+}
+
+/* navbar */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  background-color:  #ff4c68;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  padding: 0 16px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
+/* title buttons and image */
+
+.title-container {
+  background-color: #ff4c68;
+}
+
+.title-heading {
+  margin-bottom: 50px;
+}
+
+.title-text {
+  text-align: left;
+}
+
+.download-button {
+  font-size: .99rem;
+}
+
+.btn-row {
+  width: 320px;
+}
+
+.btn-col {
+  width: 100px;
+}
+
+.btn-light {
+  background-color: #fff0;
+  color: #fff;
+}
+
+.img-col {
+  text-align: center;
+  height: 450px;
+}
+
+.phone-img {
+  transform:rotate(30deg);
+  width: 60%;
+}
+
+/* features */
+#features {
+  position: relative;
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #fff;
+}
+
+.col-feature {
+  padding: 5%;
+}
+
+.feature-icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+  color: #ff4c68;
+}
+
+
+.feature-title {
+  font-size: 1.5rem;
+  font-weight:bold;
+  margin: 0;
+}
+
+.feature-text {
+  color: #8f8f8f;
+  margin: 0;
+}
+
+/* testimonials */
+#testimonials {
+  color: #fff;
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.testimonials-text {
+  font-weight: 700;
+}
+
+.testimonials-image {
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* press */
+#press {
+  width: 100%;
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.press-row {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.press-col {
+  padding: 15px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.press-image {
+  width: 75%;
+}
+
+/* pricing */
+
+#pricing {
+  text-align: left;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.pricing-header {
+  font-size: 4rem;
+  font-weight: 800;
+  margin-left: 100px;
+}
+
+.pricing-p {
+  margin-left: 100px;
+}
+
+.price-row {
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+.card-header {
+}
+
+.card-subheader {
+  padding-top: 15px;
+  font-weight: 800;
+  font-size: 3rem;
+}
+
+.price-col {
+  padding-bottom: 15px;
+}
+
+.plan-btn {
+  width: 100%;
+}
+
+/* cta */
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 100px 200px;
+
+}
+
+.cta-h3 {
+  font-weight: 800;
+  font-size: 4rem;
+}
+
+.cta-btn{
+  margin: 50px 15px 15px;
+}
+
+/* footer */
+
+#footer {
+text-align: center;
+margin-top: 100px;
+}
+
+.footer-icon {
+  padding: 15px 7px;
+}
